@@ -9,6 +9,7 @@ I'm a full-stack developer with experience in Java, TypeScript, React, Next.js, 
 
 ## Links
 - [Portfolio Website](https://niskb.github.io)
-- [GitHub](https://github.com/niskb)
+- [GitHub](https://github.com/niskb) (You're already here) ☺️
 - [LinkedIn](https://www.linkedin.com/in/niski)
+- [YouTube](https://www.youtube.com/@the-pc-shop)
 - Email: niskibrian@hotmail.com
